@@ -7,7 +7,7 @@ from odoo import api, models
 class WebEnvironmentRibbonBackend(models.AbstractModel):
 
     _name = "web.environment.ribbon.backend"
-    _description = "Web Environment Ribbon Backend"
+    _description = "Web Environment Ribbon Backend"aaaa
 
     @api.model
     def _prepare_ribbon_format_vals(self):
